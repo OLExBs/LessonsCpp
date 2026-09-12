@@ -59,6 +59,7 @@ int main()
 	cout << " \n";
 	cout << "Hobby:\t\t Guitar\n";
 	cout << "::.............................:: \n";
+	cout << "::.............................:: \n";
 
 	cout << " 3.\n";
 	float diag;
