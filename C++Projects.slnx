@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="2_LogicOperators/2_LogicOperators.vcxproj" Id="125a9958-21ac-4205-9896-38dc2c1cd613" />
   <Project Path="Lesson1/Lesson1.vcxproj" Id="0a62e178-1306-437b-9f05-e1374642e0f2" />
 </Solution>
