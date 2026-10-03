@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{125a9958-21ac-4205-9896-38dc2c1cd613}</ProjectGuid>
-    <RootNamespace>My2LogicOperators</RootNamespace>
+    <ProjectGuid>{ef8ff8d0-d1e2-4c0b-9b3f-a3adfa7c54b9}</ProjectGuid>
+    <RootNamespace>CycleInCycle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>02_LogicOperators</ProjectName>
+    <ProjectName>04_CycleInCycle</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="File.cpp" />
+    <ClCompile Include="CycleInCycle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -31,38 +31,38 @@ int main()
 		cout << "Invalid input!" << endl;
 	}
 
-	//	
-	//	// 2
-	//	int day;
-	//	cout << "Enter a number of day of the week(1-7): ";
-	//	cin >> day;
-	//	switch (day)
-	//	{
-	//	case 1:
-	//		cout << "Monday work day" << endl;
-	//		break;
-	//	case 2:
-	//		cout << "Tuesday work day" << endl;
-	//		break;
-	//	case 3:
-	//		cout << "Wednesday work day again..." << endl;
-	//		break;
-	//	case 4:
-	//		cout << "Thursday work day (when is the weekend?)" << endl;
-	//		break;
-	//	case 5:
-	//		cout << "Friday work day (Tomorrow is the weekend!)" << endl;
-	//		break;
-	//	case 6:
-	//		cout << "Saturday and that is the weekend!" << endl;
-	//		break;
-	//	case 7:
-	//		cout << "Sunday and that is the weekend!" << endl;
-	//		break;
-	//	default:
-	//		cout << "Invalid input!" << endl;
-	//	}
-	//
+		
+		// 2
+		int day;
+		cout << "Enter a number of day of the week(1-7): ";
+		cin >> day;
+		switch (day)
+		{
+		case 1:
+			cout << "Monday work day" << endl;
+			break;
+		case 2:
+			cout << "Tuesday work day" << endl;
+			break;
+		case 3:
+			cout << "Wednesday work day again..." << endl;
+			break;
+		case 4:
+			cout << "Thursday work day (when is the weekend?)" << endl;
+			break;
+		case 5:
+			cout << "Friday work day (Tomorrow is the weekend!)" << endl;
+			break;
+		case 6:
+			cout << "Saturday and that is the weekend!" << endl;
+			break;
+		case 7:
+			cout << "Sunday and that is the weekend!" << endl;
+			break;
+		default:
+			cout << "Invalid input!" << endl;
+		}
+	
 	//	// 3
 	//	int course;
 	//	cout << "Enter a number of course(1-North, 2-South, 3-East, 4-West): ";
@@ -165,7 +165,7 @@ int main()
 	//	}
 	//	else{
 	//			cout << "Time is invalid" << endl;
-	//	}
+	//	}к
 	//
 	//	// 10
 	//

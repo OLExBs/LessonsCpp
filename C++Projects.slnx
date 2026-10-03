@@ -5,6 +5,7 @@
   </Configurations>
   <Project Path="03_CyclesConst/03_CyclesConst.vcxproj" Id="d48bef43-3f50-422a-91d0-65ffcb07fa2b" />
   <Project Path="2_LogicOperators/2_LogicOperators.vcxproj" Id="125a9958-21ac-4205-9896-38dc2c1cd613" />
+  <Project Path="CycleInCycle/CycleInCycle.vcxproj" Id="ef8ff8d0-d1e2-4c0b-9b3f-a3adfa7c54b9" />
   <Project Path="Lesson1/Lesson1.vcxproj" Id="0a62e178-1306-437b-9f05-e1374642e0f2" />
   <Project Path="LogOperatorsHw/LogOperatorsHw.vcxproj" Id="0c75d804-a5ce-43a4-ae79-dfe32ac562f9" />
 </Solution>
