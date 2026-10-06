@@ -79,18 +79,18 @@ int main()
 
 
 	//4 
-		int x = 0, y = 0, l = 0;
-		while (l != 10)
-		{
-			cout << "Enter a number: ";
-			cin >> x;
-			l++;
-			y += x;
-			
-		}
-		
-		cout << "Sum of 10 numbers: " << y << endl;
-		cout << "Average of 10 numbers: " << y / 10.f << endl;
+		//int x = 0, y = 0, l = 0;
+		//while (l != 10)
+		//{
+		//	cout << "Enter a number: ";
+		//	cin >> x;
+		//	l++;
+		//	y += x;
+		//	
+		//}
+		//
+		//cout << "Sum of 10 numbers: " << y << endl;
+		//cout << "Average of 10 numbers: " << y / 10.f << endl;
 
 
 	//}
@@ -127,18 +127,18 @@ int main()
 	//cout << "Clock banged " << f << " times" << endl;
 
 
-	//// 8 
-	//int k = 0, l = 0;
-	//for (int g = 0; ; g++)
-	//{ 
-	//	cin >> k;
-	//	l += k;
-	//	if (k == 0)
-	//	{
-	//		cout << "Sum of numbers: " << l << endl;
-	//		break;
-	//	}
-
-	//}
-
-}
+//	// 8 
+//	int k = 0, l = 0;
+//	for (int g = 0; ; g++)
+//	{ 
+//		cin >> k;
+//		l += k;
+//		if (k == 0)
+//		{
+//			cout << "Sum of numbers: " << l << endl;
+//			break;
+//		}
+//
+//	}
+//
+//}
