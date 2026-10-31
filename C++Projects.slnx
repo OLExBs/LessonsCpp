@@ -12,4 +12,7 @@
   <Project Path="../../../../../Desktop/Megaprogramist(C++)/C++Projects/LogOperatorsHw/LogOperatorsHw.vcxproj" Id="0c75d804-a5ce-43a4-ae79-dfe32ac562f9" />
   <Project Path="../../../../../Desktop/Megaprogramist(C++)/C++Projects/OverloadFunctionsTemplates/OverloadFunctionsTemplates.vcxproj" Id="11248344-fba8-417d-82af-6d670402fa54" />
   <Project Path="FunctionsHW/FunctionsHW.vcxproj" Id="5de2965b-09ed-43d2-a45f-958d0768506e" />
+  <Project Path="LinearSearch/LinearSearch.vcxproj" Id="029388a5-eb3b-4591-8b2a-abb2cff184db" />
+  <Project Path="Pointers/Pointers.vcxproj" Id="28363d5a-c70e-44bc-9710-ff19c4cc6b8d" />
+  <Project Path="QuickSort/QuickSort.vcxproj" Id="4c4069d3-fac8-4ce4-8d06-b8f56d1f0106" />
 </Solution>
