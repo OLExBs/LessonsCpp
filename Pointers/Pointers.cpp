@@ -39,6 +39,15 @@ int main()
 	cout << endl;
 
 
+	for (int i = 0; i < 255; i++)
+
+	{
+
+		cout << "[" << i << "] - " << (char)i << endl;
+
+	}
+
+
 
 }
 
