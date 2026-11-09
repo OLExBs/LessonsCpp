@@ -14,6 +14,7 @@
   <Project Path="FunctionsHW/FunctionsHW.vcxproj" Id="5de2965b-09ed-43d2-a45f-958d0768506e" />
   <Project Path="LinearSearch/LinearSearch.vcxproj" Id="029388a5-eb3b-4591-8b2a-abb2cff184db" />
   <Project Path="Pointers/Pointers.vcxproj" Id="28363d5a-c70e-44bc-9710-ff19c4cc6b8d" />
+  <Project Path="PointersHw/PointersHw.vcxproj" Id="0867172f-9de6-4407-a32d-1ae5d77c02bf" />
   <Project Path="QuickSort/QuickSort.vcxproj" Id="4c4069d3-fac8-4ce4-8d06-b8f56d1f0106" />
   <Project Path="RecursionHW/RecursionHW.vcxproj" Id="a301e835-46e8-43d3-99d6-cd8e591ff812" />
 </Solution>
