@@ -14,6 +14,7 @@
   <Project Path="2DynamArrays/2DynamArrays.vcxproj" Id="3af57384-2e8a-47d2-a168-57c8b4093f25" />
   <Project Path="FunctionsHW/FunctionsHW.vcxproj" Id="5de2965b-09ed-43d2-a45f-958d0768506e" />
   <Project Path="LinearSearch/LinearSearch.vcxproj" Id="029388a5-eb3b-4591-8b2a-abb2cff184db" />
+  <Project Path="LinksHw/LinksHw.vcxproj" Id="83897c9f-c86d-4a61-aae7-b55850c816d8" />
   <Project Path="Pointers/Pointers.vcxproj" Id="28363d5a-c70e-44bc-9710-ff19c4cc6b8d" />
   <Project Path="PointersHw/PointersHw.vcxproj" Id="0867172f-9de6-4407-a32d-1ae5d77c02bf" />
   <Project Path="Practic2darr/Practic2darr.vcxproj" Id="74a7c254-fc7d-494e-be9d-7d0ea5cfe5ac" />
